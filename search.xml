@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>我的第一篇BLOG</title>
+    <url>/2023/04/02/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87BLOG/</url>
+    <content><![CDATA[<h1 id="主题选取"><a href="#主题选取" class="headerlink" title="主题选取"></a>主题选取</h1><p>这是我的第一篇博客。选取了一个hexo的博客主题。选择的原因是风格好看，具备一些博客应有的基本功能。</p>
+<h1 id="页面布局"><a href="#页面布局" class="headerlink" title="页面布局"></a>页面布局</h1><p>在上部设置了主页，标签,分类,精选文章和github这5个菜单栏元素。在下部是文章的摘要内容，可以通过read more进行文章全文的查看，同时可以在其中查看相关tag的文章。</p>
+<h1 id="技术实现"><a href="#技术实现" class="headerlink" title="技术实现"></a>技术实现</h1><p>使用了github page，hexo，nodejs来实现博客的搭建。</p>
+<h1 id="功能分析"><a href="#功能分析" class="headerlink" title="功能分析"></a>功能分析</h1><p>-文章精选<br>-内容搜索<br>-tag与分类<br>-文章摘要<br>-相关tag推荐</p>
+]]></content>
+      <categories>
+        <category>introduce</category>
+      </categories>
+      <tags>
+        <tag>first</tag>
+        <tag>Non-technical</tag>
+      </tags>
+  </entry>
+</search>
